@@ -1,4 +1,4 @@
-export const API  = 'http://localhost:8080';
+export const API  = 'https://blimp-afoot-refining.ngrok-free.dev';
 export const DIMS = 16;
 
 export const COL = Object.freeze({ 
